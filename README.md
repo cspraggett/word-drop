@@ -5,6 +5,6 @@ This is a project for [MintBean's JS Hacks: Typing Karaoke Hackathon.](https://m
 The challenge is to make a typing game using JavaScrip, HTML, and CSS. I am going to make a word drop typing game.
 
 ## My stack will be: 
-* Svelte.js 
-* Tailwind css
+* [Svelte.js](svelte.dev)
+* [Tailwind css](tailwindcss.com)
 
